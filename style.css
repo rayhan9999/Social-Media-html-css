@@ -1,0 +1,52 @@
+body {
+    background: linear-gradient(plum, thistle, lightblue);
+    min-height: 100vh;
+    margin-top: 50px;
+    margin-left: 300px;
+
+}
+
+h1 {
+    font-size: 60px;
+    font-family: serif;
+    color: rgb(208, 28, 208);
+}
+
+.btn {
+    width: 500px;
+    padding: 20px;
+    font-weight: bold;
+    border-radius: 15px;
+    font-size: 20px;
+    background-color: black;
+    margin-top: 25px;
+    margin-left: 50px;
+    cursor: pointer;
+
+}
+
+.twitter {
+    border: 3px solid aqua;
+    color: aqua;
+    box-shadow: 7px 7px 15px aqua;
+}
+
+.youTube {
+    border: 3px solid aqua;
+    color: red;
+    box-shadow: 7px 7px 15px aqua;
+
+}
+
+.blog {
+    border: 3px solid aqua;
+    color: lightgreen;
+    box-shadow: 7px 7px 15px aqua;
+}
+
+.coffee {
+    border: 3px solid aqua;
+    color: lightsalmon;
+    box-shadow: 7px 7px 15px aqua;
+
+}
